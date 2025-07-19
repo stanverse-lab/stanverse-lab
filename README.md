@@ -119,6 +119,6 @@
 <!--snake game -->
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/codestan-commits/codestan-commits/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/stanverse-lab/stanverse-lab/output/snake.svg" alt="Snake animation" />
 
 ###
