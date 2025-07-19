@@ -95,3 +95,17 @@
   <!--most languages used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanverse-lab&theme=dracula&hide_border=false&v=2" width="420" alt="Top Languages" />
 </p>
+ <br>
+ 
+ <!--github streak-->
+  <img src="https://streak-stats.demolab.com?user=stanverse-lab&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
+  <br>
+  <!--github Trophies-->
+  <img src="https://github-profile-trophy.vercel.app/?username=stanverse-lab&theme=dracula&margin-w=5&margin-h=5&no-frame=false" height="150" alt="GitHub Trophies" />
+  <br>
+
+   <!--Activity graph-->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanverse-lab&theme=react&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph" />
+  <br>
+  
+</div>
