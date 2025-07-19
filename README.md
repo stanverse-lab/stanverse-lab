@@ -81,5 +81,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-
 </div>
+
+<!--Github stats and activity section-->
+<div align="center">
+  
+  ## 📊 GitHub Stats & Activity
+  
+  <br>
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=stanverse-lab&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" width="420" alt="GitHub Stats" />
+  
+  <!--most languages used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanverse-lab&theme=dracula&hide_border=false&v=2" width="420" alt="Top Languages" />
+</p>
