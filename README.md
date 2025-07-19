@@ -113,6 +113,12 @@
    <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanverse-lab&theme=react&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph" />
    </p>
-  <br>
-  
+  <br> 
 </div>
+
+<!--snake game -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/codestan-commits/codestan-commits/output/snake.svg" alt="Snake animation" />
+
+###
