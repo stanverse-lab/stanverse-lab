@@ -98,14 +98,21 @@
  <br>
  
  <!--github streak-->
+ <p>
   <img src="https://streak-stats.demolab.com?user=stanverse-lab&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
+   </p>
   <br>
+  
   <!--github Trophies-->
+  <p>
   <img src="https://github-profile-trophy.vercel.app/?username=stanverse-lab&theme=dracula&margin-w=5&margin-h=5&no-frame=false" height="150" alt="GitHub Trophies" />
+  </p>
   <br>
 
    <!--Activity graph-->
+   <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanverse-lab&theme=react&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph" />
+   </p>
   <br>
   
 </div>
