@@ -99,10 +99,9 @@
  
  <!--github streak-->
  <p>
-  <img src="https://streak-stats.demolab.com?user=stanverse-lab&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
-   </p>
+ <img src="https://github-readme-stats.vercel.app/api?username=stanverse-lab&show_icons=true&theme=dracula" />
+ </p>
   <br>
-  
   <!--github Trophies-->
   <p>
   <img src="https://github-profile-trophy.vercel.app/?username=stanverse-lab&theme=dracula&margin-w=5&margin-h=5&no-frame=false" height="150" alt="GitHub Trophies" />
